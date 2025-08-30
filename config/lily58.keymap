@@ -63,9 +63,9 @@
             display-name = "Raise";
             bindings = <
 &sys_reset  &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &trans     &trans    &trans    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
-&kp GRAVE   &bt BT_CLR    &bt BT_CLR_ALL  &kp N3        &kp N4        &kp N5                          &kp UNDER  &kp PLUS  &kp UP    &kp EQUAL             &kp LEFT_BRACE         &kp RIGHT_BRACE
-&kp F1      &kp F2        &kp F3          &kp F4        &kp F5        &kp F6                          &kp MINUS  &kp LEFT  &kp DOWN  &kp RIGHT             &kp LEFT_BRACKET       &kp RIGHT_BRACKET
-&kp F7      &kp F8        &kp F9          &kp F10       &kp F11       &kp F12       &trans    &trans  &trans     &trans    &trans    &trans                &trans                 &trans
+&kp GRAVE   &bt BT_CLR    &bt BT_CLR_ALL  &trans        &trans        &trans                          &kp UNDER  &kp PLUS  &kp UP    &kp EQUAL             &kp LEFT_BRACE         &kp RIGHT_BRACE
+&trans      &trans        &trans          &trans        &trans        &trans                          &kp MINUS  &kp LEFT  &kp DOWN  &kp RIGHT             &kp LEFT_BRACKET       &kp RIGHT_BRACKET
+&trans      &trans        &trans          &trans        &trans        &trans        &trans    &trans  &trans     &trans    &trans    &trans                &trans                 &trans
                                           &trans        &trans        &trans        &trans    &trans  &trans     &trans    &trans
             >;
 
